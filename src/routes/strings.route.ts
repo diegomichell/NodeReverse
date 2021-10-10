@@ -14,6 +14,7 @@ StringsRouter.post('/data', async (req, res) => {
       res.status(400).send({
         error: '"data" field is required',
       });
+      return;
     }
 
     const reversedString = data.split('').reverse().join('');
