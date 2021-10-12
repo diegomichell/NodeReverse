@@ -1,6 +1,10 @@
+[![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge&style=flat)](https://node-reverse-string.herokuapp.com/app)
+
 # Node Reverse
 
 Node practice project
+
+Available live at https://node-reverse-string.herokuapp.com/app
 
 ## Getting Started
 
